@@ -20,7 +20,7 @@ import java.io.FileNotFoundException;
 
 /**
  * Main class
- * @author Draghici
+ * @author MatCoding
  */
 public class ShortestPath extends JFrame {
 
