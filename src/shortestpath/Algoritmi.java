@@ -12,7 +12,7 @@ import java.util.Collections;
 
 /**
  * Contine algoritmii Dijkstra si Bellman-Ford pentru calcularea celui mai scurt drum de la un nod intr-un graf
- * @author Draghici
+ * @author MatCoding
  */
 public class Algoritmi{
     /**
