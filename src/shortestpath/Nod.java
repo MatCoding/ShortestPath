@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 /**
  * Clasa nod contine interfata necesara reprezentarii unui nod al unui graf
- * @author Draghici
+ * @author MatCoding
  */
     public class Nod implements Comparable<Nod>{
         //Numele nodului
