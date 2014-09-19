@@ -4,7 +4,7 @@ package shortestpath;
 
 /**
  * Clasa muchie contine interfata necesara reprezentarii unei muchii a unui graf
- * @author Draghici
+ * @author MatCoding
  */
 public class Muchie {
     //tinta
